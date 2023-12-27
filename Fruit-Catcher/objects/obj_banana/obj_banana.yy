@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "gameManager",
+  "name": "obj_banana",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
@@ -28,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_banana",
+    "path": "sprites/spr_banana/spr_banana.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "gameManager",
+  "name": "obj_apple",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
@@ -28,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_apple",
+    "path": "sprites/spr_apple/spr_apple.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
