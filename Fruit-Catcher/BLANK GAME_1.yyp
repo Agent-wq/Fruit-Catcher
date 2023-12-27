@@ -38,7 +38,6 @@
     {"id":{"name":"spr_bomb","path":"sprites/spr_bomb/spr_bomb.yy",},},
     {"id":{"name":"spr_pineapple","path":"sprites/spr_pineapple/spr_pineapple.yy",},},
     {"id":{"name":"spr_bucket","path":"sprites/spr_bucket/spr_bucket.yy",},},
-    {"id":{"name":"obj_gameover","path":"objects/obj_gameover/obj_gameover.yy",},},
     {"id":{"name":"spr_banana","path":"sprites/spr_banana/spr_banana.yy",},},
     {"id":{"name":"gameManager","path":"objects/gameManager/gameManager.yy",},},
     {"id":{"name":"obj_bucket","path":"objects/obj_bucket/obj_bucket.yy",},},
