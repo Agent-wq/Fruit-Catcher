@@ -17,7 +17,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_bomb","order":5,"path":"objects/obj_bomb/obj_bomb.yy",},
+    {"name":"spr_bomb","order":4,"path":"sprites/spr_bomb/spr_bomb.yy",},
     {"name":"spr_pineapple","order":3,"path":"sprites/spr_pineapple/spr_pineapple.yy",},
+    {"name":"obj_gameover","order":6,"path":"objects/obj_gameover/obj_gameover.yy",},
     {"name":"spr_banana","order":2,"path":"sprites/spr_banana/spr_banana.yy",},
     {"name":"gameManager","order":1,"path":"objects/gameManager/gameManager.yy",},
     {"name":"obj_pineapple","order":4,"path":"objects/obj_pineapple/obj_pineapple.yy",},

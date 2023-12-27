@@ -3,3 +3,5 @@
 // This is for the fruit_spawning_object
 _spawn_interval = 60; // Spawn timer of fruits
 _spawn_timer = _spawn_interval;
+
+score = 0;
