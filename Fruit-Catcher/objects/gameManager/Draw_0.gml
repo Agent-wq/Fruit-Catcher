@@ -10,5 +10,5 @@ if(_game_over)
     draw_text(room_width / 2, room_height / 2, "Game Over");
 	draw_text(300,300,"Total Score =");
 	draw_text(390,300,score);
-	
+	draw_text(room_width/3, room_width / 3, "Press 'Space' to restart");
 }
